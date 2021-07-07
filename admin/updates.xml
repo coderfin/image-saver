@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='https://www.google.com/update2/response' protocol='2.0'>
+    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    <app appid='eckijliomkdaahhlijknbjdbfokbealn'>
+        <updatecheck codebase='https://coderfin.github.io/lui-admin/luis-image-search-extension.zip' version='0.1.0' />
+    </app>
+</gupdate>
